@@ -1,0 +1,113 @@
+E:\path_finder>python paths_finder.py TW -local
+loc
+
+Query time has been set to the latest time (2021-12-05 00:00 UTC) data is available for.
+Total ASN: 214  No connection ASN: 34
+No connection ASN:
+45599: 141 Yang Guan Jie; hosting (no local or external connection)
+131631: sunchi networks; business (no local or external connection)
+131633: sakura internet; business (no path observed, but not inactive )
+131651: loongaming; isp (no local or external connection)
+131662: Denpa Ltd; business (no local or external connection)
+131667: GRONEXT CO., LTD; business (no local or external connection)
+131675: Beyond Orbit Co., Ltd; business (no local or external connection)
+18043: GETOP Automatic System Inc; business (no local or external connection)
+139903: RETN Telecoms Ltd; hosting(no local or external connection)
+140958: Watch Tower Bible and Tract Society of Pennsylvania, Taiwan Branch; business (no local or external connection)
+211622: TSAI, PANG-WEI; business (no local or external connection)
+24235: inactive
+142005: NC Taiwan Co., Ltd; business (no local or external connection)
+45761:  Gamania Digital Entertainment Hong Kong Transit AS; business (no local or external connection)
+135387: Magna Hosting Ltd; hosting (no local or external connection)
+18178: inactive
+18179: MiTAC Inc; business (no local or external connection)
+18186: QianYun Network Service Co., Lt; business (no local or external connection)
+136462: Mootech Asia; business (no local or external connection)
+38187: Gamania Digital Entertainment Co., Ltd;
+17717: inactive
+17718: Chaijin Information Co., Ltd; business (no local or external connection)
+139065: Apeiro8 Technology Co., Ltd; business (no local or external connection)
+138611: Cloud Speed Technology Limited Co; business (no local or external connection)
+141173: SteveYi Experiment Network; business (no local or external connection)
+212357: Hung Yun Tseng; business (no local or external connection)
+135596: Hans Online Services; business (no local or external connection)
+141742: Magna Hosting Ltd; hosting (no local or external connection)
+38839: CSPTEK LTD. CO; education (no local or external connection)
+38845: Fu Jen Catholic University; education (no local or external connection)
+38846: Wolf Feather Culture Information Co., Ltd; isp (no local or external connection)
+7649: inactive
+210932: Yu-Cheng Kuo; business (no local or external connection)
+18428: Mercycat Network; business (no local or external connection)
+
+
+
+Inner connection stat
+132
+ 1 : ['131584', '9216', '131586', '131587', '131588', '131589', '131590', '131591', '131593', '131595', '131596', '131597', '17416', '131599', '131600', '131601', '17420', '131603', '17421', '131605', '131606', '131607', '131609', '131610', '131619', '131620', '131621', '133158', '131623', '131626', '131627', '131628', '131632', '131636', '131637', '4662', '131639', '212534', '131642', '131653', '131142', '131143', '131144', '131655', '131659', '131149', '131150', '131660', '131663', '131668', '131671', '212057', '131674', '131164', '131678', '131679', '131680', '17502', '131682', '9311', '24157', '24158', '24160', '24162', '24163', '24164', '24165', '9831', '24168', '24171', '18040', '18045', '18047', '18049', '209557', '38042', '4781', '4782', '4783', '24154', '211132', '9918', '9922', '131273', '139471', '18177', '18181', '18183', '210707', '17710', '140079', '17712', '17713', '17716', '7478', '7483', '10085', '212331', '38254', '7535', '59268', '212358', '212359', '212360', '38797', '10126', '17809', '38837', '38841', '38844', '38847', '45504', '38851', '38852', '38853', '38854', '9671', '212425', '9674', '134094', '133089', '18411', '55789', '18413', '18415', '18419', '18420', '10229', '18421', '18422', '18426', '18429']
+19
+ 2 : ['9244', '131618', '131634', '131657', '131148', '131677', '24155', '18042', '9916', '9919', '4845', '18182', '45346', '17711', '10135', '24506', '38843', '9678', '7656']
+6
+ 3 : ['17415', '45250', '7533', '38856', '9676', '18424']
+4
+ 4 : ['131645', '60614', '9416', '212279']
+4
+ 5 : ['1659', '18185', '7481', '7482']
+1
+ 6 : ['24167']
+2
+ 7 : ['18041', '7532']
+1
+ 8 : ['18046']
+1
+ 11 : ['134823']
+1
+ 12 : ['7539']
+1
+ 23 : ['9264']
+1
+ 29 : ['10133']
+1
+ 32 : ['17709']
+1
+ 35 : ['17408']
+1
+ 46 : ['4780']
+1
+ 63 : ['9680']
+1
+ 66 : ['9924']
+1
+ 91 : ['9505']
+1
+ 92 : ['3462']
+
+outbound connection stat
+
+17408 -> 59268
+4780 -> 45250
+9924 -> 131610
+9505 -> 131642
+9505 -> 18046
+9505 -> 59268
+9505 -> 45504
+9505 -> 18424
+45346 -> 133158
+3462 -> 131605
+3462 -> 59268
+3462 -> 38854
+10133 -> 131610
+10133 -> 139471
+10133 -> 38854
+24506 -> 10229
+9680 -> 131605
+9680 -> 59268
+9680 -> 38854
+
+171
+ 0 : ['131584', '9216', '131586', '131587', '131588', '131589', '131590', '131591', '131593', '17415', '131595', '131596', '131597', '17416', '131599', '131600', '131601', '17420', '131603', '17421', '131605', '131606', '131607', '131609', '131610', '9244', '131618', '131619', '131620', '131621', '133158', '131623', '131626', '131627', '131628', '131632', '131634', '9264', '131636', '131637', '4662', '131639', '212534', '131642', '131645', '131653', '131142', '131143', '131144', '131655', '131657', '131659', '131148', '131149', '131150', '131660', '131663', '131668', '131671', '212057', '131674', '131164', '131677', '131678', '131679', '131680', '17502', '131682', '9311', '24155', '24157', '24158', '24160', '24162', '24163', '24164', '24165', '9831', '24167', '24168', '24171', '18040', '18041', '18042', '1659', '18045', '18046', '18047', '18049', '209557', '38042', '134823', '4781', '4782', '4783', '24154', '211132', '9916', '9918', '9919', '45250', '9922', '60614', '9416', '131273', '139471', '4845', '18177', '18181', '18182', '18183', '18185', '210707', '17709', '17710', '140079', '17711', '17712', '17713', '17716', '7478', '212279', '7481', '7482', '7483', '10085', '212331', '7532', '7533', '38254', '7535', '7539', '59268', '212358', '212359', '212360', '38797', '10126', '17809', '10135', '38837', '38841', '38843', '38844', '38847', '45504', '38851', '38852', '38853', '38854', '9671', '38856', '212425', '9674', '9676', '134094', '9678', '133089', '7656', '18411', '55789', '18413', '18415', '18419', '18420', '10229', '18421', '18424', '18422', '18426', '18429']
+5
+ 1 : ['17408', '4780', '9924', '45346', '24506']
+3
+ 3 : ['3462', '10133', '9680']
+1
+ 5 : ['9505']

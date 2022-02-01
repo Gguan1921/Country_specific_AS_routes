@@ -1,0 +1,233 @@
+Query time has been set to the latest time (2021-12-05 00:00 UTC) data is available for.
+AS start: 17408 out: 3
+17408 -> 131605
+External connection / Total connection:
+1 / 2
+all:
+[("17408", "TW"), ("131605", "TW")]
+[("17408", "TW"), ("138698", "CN"), ("131605", "TW")]
+out:
+[("17408", "TW"), ("138698", "CN"), ("131605", "TW")]
+17408 -> 212360
+External connection / Total connection:
+1 / 2
+all:
+[("17408", "TW"), ("131645", "TW"), ("38856", "TW"), ("212360", "TW")]
+[("17408", "TW"), ("131645", "TW"), ("6939", "US"), ("18041", "TW"), ("212360", "TW")]
+out:
+[("17408", "TW"), ("131645", "TW"), ("6939", "US"), ("18041", "TW"), ("212360", "TW")]
+17408 -> 59268
+External connection / Total connection:
+1 / 1
+all:
+[("17408", "TW"), ("139750", "HK"), ("59268", "TW")]
+out:
+[("17408", "TW"), ("139750", "HK"), ("59268", "TW")]
+
+AS start: 131645 out: 1
+131645 -> 212360
+External connection / Total connection:
+1 / 2
+all:
+[("131645", "TW"), ("38856", "TW"), ("212360", "TW")]
+[("131645", "TW"), ("6939", "US"), ("18041", "TW"), ("212360", "TW")]
+out:
+[("131645", "TW"), ("6939", "US"), ("18041", "TW"), ("212360", "TW")]
+
+AS start: 4780 out: 1
+4780 -> 45250
+External connection / Total connection:
+1 / 1
+all:
+[("4780", "TW"), ("40564", "US"), ("45250", "TW")]
+out:
+[("4780", "TW"), ("40564", "US"), ("45250", "TW")]
+
+AS start: 9924 out: 2
+9924 -> 131610
+External connection / Total connection:
+1 / 1
+all:
+[("9924", "TW"), ("47582", "GB"), ("131610", "TW")]
+out:
+[("9924", "TW"), ("47582", "GB"), ("131610", "TW")]
+9924 -> 9676
+External connection / Total connection:
+1 / 3
+all:
+[("9924", "TW"), ("9676", "TW")]
+[("9924", "TW"), ("7533", "TW"), ("9676", "TW")]
+[("9924", "TW"), ("3491", "US"), ("7533", "TW"), ("9676", "TW")]
+out:
+[("9924", "TW"), ("3491", "US"), ("7533", "TW"), ("9676", "TW")]
+
+AS start: 9505 out: 6
+9505 -> 131642
+External connection / Total connection:
+1 / 1
+all:
+[("9505", "TW"), ("131477", "CN"), ("131642", "TW")]
+out:
+[("9505", "TW"), ("131477", "CN"), ("131642", "TW")]
+9505 -> 18046
+External connection / Total connection:
+1 / 1
+all:
+[("9505", "TW"), ("9304", "HK"), ("18046", "TW")]
+out:
+[("9505", "TW"), ("9304", "HK"), ("18046", "TW")]
+9505 -> 18424
+External connection / Total connection:
+1 / 1
+all:
+[("9505", "TW"), ("4809", "CN"), ("134176", "HK"), ("38047", "HK"), ("18424", "TW")]
+out:
+[("9505", "TW"), ("4809", "CN"), ("134176", "HK"), ("38047", "HK"), ("18424", "TW")]
+9505 -> 45504
+External connection / Total connection:
+1 / 1
+all:
+[("9505", "TW"), ("45474", "HK"), ("45504", "TW")]
+out:
+[("9505", "TW"), ("45474", "HK"), ("45504", "TW")]
+9505 -> 59268
+External connection / Total connection:
+1 / 1
+all:
+[("9505", "TW"), ("139750", "HK"), ("59268", "TW")]
+out:
+[("9505", "TW"), ("139750", "HK"), ("59268", "TW")]
+9505 -> 9676
+External connection / Total connection:
+1 / 3
+all:
+[("9505", "TW"), ("7533", "TW"), ("9676", "TW")]
+[("9505", "TW"), ("9924", "TW"), ("7533", "TW"), ("9676", "TW")]
+[("9505", "TW"), ("9924", "TW"), ("3491", "US"), ("7533", "TW"), ("9676", "TW")]
+out:
+[("9505", "TW"), ("9924", "TW"), ("3491", "US"), ("7533", "TW"), ("9676", "TW")]
+
+AS start: 45346 out: 1
+45346 -> 133158
+External connection / Total connection:
+1 / 1
+all:
+[("45346", "TW"), ("133953", "HK"), ("133158", "TW")]
+out:
+[("45346", "TW"), ("133953", "HK"), ("133158", "TW")]
+
+AS start: 7539 out: 1
+7539 -> 1659
+External connection / Total connection:
+1 / 2
+all:
+[("7539", "TW"), ("1659", "TW")]
+[("7539", "TW"), ("4637", "HK"), ("17717", "TW"), ("1659", "TW")]
+out:
+[("7539", "TW"), ("4637", "HK"), ("17717", "TW"), ("1659", "TW")]
+
+AS start: 3462 out: 4
+3462 -> 10229
+External connection / Total connection:
+1 / 2
+all:
+[("3462", "TW"), ("24506", "TW"), ("10310", "US"), ("10229", "TW")]
+[("3462", "TW"), ("10229", "TW")]
+out:
+[("3462", "TW"), ("24506", "TW"), ("10310", "US"), ("10229", "TW")]
+3462 -> 131605
+External connection / Total connection:
+1 / 2
+all:
+[("3462", "TW"), ("17408", "TW"), ("131605", "TW")]
+[("3462", "TW"), ("17408", "TW"), ("138698", "CN"), ("131605", "TW")]
+out:
+[("3462", "TW"), ("17408", "TW"), ("138698", "CN"), ("131605", "TW")]
+3462 -> 38854
+External connection / Total connection:
+1 / 1
+all:
+[("3462", "TW"), ("21859", "US"), ("38854", "TW")]
+out:
+[("3462", "TW"), ("21859", "US"), ("38854", "TW")]
+3462 -> 59268
+External connection / Total connection:
+1 / 1
+all:
+[("3462", "TW"), ("17408", "TW"), ("139750", "HK"), ("59268", "TW")]
+out:
+[("3462", "TW"), ("17408", "TW"), ("139750", "HK"), ("59268", "TW")]
+
+AS start: 10133 out: 3
+10133 -> 131610
+External connection / Total connection:
+1 / 1
+all:
+[("10133", "TW"), ("206819", "GB"), ("131610", "TW")]
+out:
+[("10133", "TW"), ("206819", "GB"), ("131610", "TW")]
+10133 -> 139471
+External connection / Total connection:
+1 / 1
+all:
+[("10133", "TW"), ("55720", "MY"), ("139471", "TW")]
+out:
+[("10133", "TW"), ("55720", "MY"), ("139471", "TW")]
+10133 -> 38854
+External connection / Total connection:
+1 / 1
+all:
+[("10133", "TW"), ("21859", "US"), ("38854", "TW")]
+out:
+[("10133", "TW"), ("21859", "US"), ("38854", "TW")]
+
+AS start: 24506 out: 1
+24506 -> 10229
+External connection / Total connection:
+1 / 1
+all:
+[("24506", "TW"), ("10310", "US"), ("10229", "TW")]
+out:
+[("24506", "TW"), ("10310", "US"), ("10229", "TW")]
+
+AS start: 9680 out: 4
+9680 -> 10229
+External connection / Total connection:
+1 / 2
+all:
+[("9680", "TW"), ("3462", "TW"), ("24506", "TW"), ("10310", "US"), ("10229", "TW")]
+[("9680", "TW"), ("3462", "TW"), ("10229", "TW")]
+out:
+[("9680", "TW"), ("3462", "TW"), ("24506", "TW"), ("10310", "US"), ("10229", "TW")]
+9680 -> 131605
+External connection / Total connection:
+1 / 2
+all:
+[("9680", "TW"), ("3462", "TW"), ("17408", "TW"), ("131605", "TW")]
+[("9680", "TW"), ("3462", "TW"), ("17408", "TW"), ("138698", "CN"), ("131605", "TW")]
+out:
+[("9680", "TW"), ("3462", "TW"), ("17408", "TW"), ("138698", "CN"), ("131605", "TW")]
+9680 -> 38854
+External connection / Total connection:
+1 / 1
+all:
+[("9680", "TW"), ("3462", "TW"), ("21859", "US"), ("38854", "TW")]
+out:
+[("9680", "TW"), ("3462", "TW"), ("21859", "US"), ("38854", "TW")]
+9680 -> 59268
+External connection / Total connection:
+1 / 1
+all:
+[("9680", "TW"), ("3462", "TW"), ("17408", "TW"), ("139750", "HK"), ("59268", "TW")]
+out:
+[("9680", "TW"), ("3462", "TW"), ("17408", "TW"), ("139750", "HK"), ("59268", "TW")]
+
+total paths: 39
+
+17 / 27
+
+CN : 5
+US : 11
+HK : 9
+GB : 2
+MY : 1
